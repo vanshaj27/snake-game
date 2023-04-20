@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: Poppins
+}
+div.bg {
+    font-size: 40px;
+	font-weight: bold;
+	color: #0cb48c;
+}
+
